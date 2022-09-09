@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/classmatewu/vitest-demo#readme",
   "devDependencies": {
+    "jsdom": "^20.0.0",
     "vitest": "^0.23.1"
   }
 }
